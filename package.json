@@ -1,0 +1,24 @@
+{
+  "name": "is-react-native",
+  "version": "1.0.0",
+  "description": "Detect runtime is react-native",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/buhe/is-react-native.git"
+  },
+  "keywords": [
+    "react-native",
+    "detect",
+    "runtime"
+  ],
+  "author": "buhe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/buhe/is-react-native/issues"
+  },
+  "homepage": "https://github.com/buhe/is-react-native#readme"
+}
