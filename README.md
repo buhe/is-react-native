@@ -1,7 +1,7 @@
 # is-react-native
 Detect runtime is react-native
 
-##Install
+## Install
 
 ```
 yarn add is-react-native
