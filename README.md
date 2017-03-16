@@ -7,6 +7,8 @@ Detect runtime is react-native
 yarn add is-react-native
 ```
 
+## Usage
+
 ```javascript
 import is_rn from 'is-react-native'
 
